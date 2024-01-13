@@ -1,8 +1,8 @@
-**🏥 Welcome to the Medical Insurance Predictor System!**
+*🏥 Welcome to the Medical Insurance Predictor System!**
 
 This groundbreaking project blends cutting-edge data science and machine learning to deliver personalized insights into medical insurance charges. By analyzing a comprehensive dataset spanning various health factors, our model, powered by a Decision Tree Regressor, predicts insurance costs tailored to individual profiles.
 
-**Key Features:**
+*Key Features:*
 
 🤖 **Predictive Analytics:** Uncover estimated medical insurance charges based on crucial parameters such as age, BMI, number of children, smoking habits, and gender.
 
