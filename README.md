@@ -73,8 +73,8 @@ pip install -r requirements.txt
 Run the Streamlit App:
 
 ```bash
-streamlit run medical_insurance_predictor_app.py
-```
+streamlit run medical_insurance.py
+``
 
 Open the web browser and go to http://localhost:8501 to explore the medical insurance predictor application.
 
