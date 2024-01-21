@@ -136,17 +136,19 @@ Open the web browser and go to http://localhost:8501 to explore the medical insu
 ```
 .
 ├── data/
-│   └── medical-insurance-data.csv
+│   └── Medical_insurance.csv
 ├── notebooks/
-│   └── exploratory_analysis.ipynb
+│   └── Medical Insurance Predictor.ipynb
 ├── screenshots/
-│   ├── screenshot1.png
-│   └── screenshot2.png
-├── medical_insurance_predictor_app.py
-├── decision_tree_regressor_model.pkl
+│   ├── ![image](https://github.com/Bidishabiswas1704/insurance_predictor/assets/140384850/c51a52f9-99c8-4dae-aa47-8347dae96f0d)
+
+│   └── ![image](https://github.com/Bidishabiswas1704/insurance_predictor/assets/140384850/007542d2-3bc4-46aa-906e-46078d3028cf)
+
+├── medical_insurance.py
+├── insurane_predictor_dtr.pkl
 ├── requirements.txt
 ├── README.md
-└── .github/
+└── .github/https://github.com/Bidishabiswas1704/insurance_predictor
     └── workflows/
         └── ci_cd.yml
 ```
