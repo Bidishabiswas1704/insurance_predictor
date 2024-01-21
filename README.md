@@ -22,8 +22,17 @@ Transparent and informed decision-making through precise predictions, providing 
 ### 📊 Data Visualization:
 Visual representations of the impact of different health factors on insurance charges for a better understanding.
 
-### 📁 GitHub Repository:
-All project code and resources are organized on GitHub for collaboration, transparency, and continuous improvement.
+### 📈 Exploratory Data Analysis (EDA):
+In-depth analysis of the medical insurance dataset to uncover patterns, trends, and correlations.
+
+### 📉 Model Evaluation Metrics:
+Utilizes key metrics such as Mean Absolute Error (MAE) and R-squared for assessing the accuracy of predictions.
+
+### 🚀 Continuous Integration/Continuous Deployment (CI/CD):
+Ensures code quality and deployment readiness with GitHub Actions for seamless integration.
+
+### 🛑 Handling Outliers:
+Incorporates techniques to identify and handle outliers in the dataset for improved model robustness.
 
 ## 🛠️ Technologies and Techniques Used
 
@@ -44,6 +53,7 @@ Used for HTTP handling to enhance data retrieval and communication.
 
 ### 📈 GitHub Actions:
 Continuous integration for code quality assurance.
+
 
 
 ## 📄 Usage
