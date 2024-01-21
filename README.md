@@ -81,7 +81,7 @@ Open the web browser and go to http://localhost:8501 to explore the medical insu
 ## 📊 Example Screenshots and User Guidance
 
 ### Step 1: Opening the Web App
-![Step 1]
+-[Step 1]
 
 ![image](https://github.com/Bidishabiswas1704/HR_Insights_Dashboard/assets/140384850/a654b156-5389-48c3-9a8d-757b0d115c50)
 
@@ -89,7 +89,7 @@ Open the web browser and go to http://localhost:8501 to explore the medical insu
 - The initial screen presents a clean and user-friendly interface.
 
 ### Step 2: Adjusting Health Parameters
-![Step 2]
+-[Step 2]
 - Use the sliders to set your age, BMI, and the number of children.
 
 ![image](https://github.com/Bidishabiswas1704/insurance_predictor/assets/140384850/b9400833-bc07-4303-992a-c54dd1b38ea5)
@@ -103,7 +103,7 @@ Open the web browser and go to http://localhost:8501 to explore the medical insu
 ![image](https://github.com/Bidishabiswas1704/insurance_predictor/assets/140384850/18856fd3-f0db-4884-bbf6-3696e4ee1be0)
 
 ### Step 3: Predicting Insurance Charges
-![Step 3]
+-[Step 3]
 - After setting your health parameters, click the "Predict Insurance Charges" button.
 
 ![image](https://github.com/Bidishabiswas1704/insurance_predictor/assets/140384850/0697af35-6059-4847-931b-bf7bda46865d)
@@ -111,7 +111,7 @@ Open the web browser and go to http://localhost:8501 to explore the medical insu
 - The app processes your inputs using the advanced Decision Tree Regressor model.
 
 ### Step 4: Viewing Predictions
-![Step 4]
+-[Step 4]
 - The predicted insurance charges are displayed on the screen.
 
 ![image](https://github.com/Bidishabiswas1704/insurance_predictor/assets/140384850/27c88af7-5de0-4721-9a3d-b7a1c106aad5)
@@ -119,7 +119,7 @@ Open the web browser and go to http://localhost:8501 to explore the medical insu
 - The result provides transparency into the estimated cost based on your health profile.
 
 ### Special Feature: Currency Conversion
-![Step 5]
+-[Step 5]
 - The app goes beyond predictions with a special feature.
 - The predicted values are automatically converted into the top five exchangeable currencies at the current rates.
 
