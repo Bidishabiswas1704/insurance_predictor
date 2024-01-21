@@ -140,9 +140,9 @@ Open the web browser and go to http://localhost:8501 to explore the medical insu
 ├── notebooks/
 │   └── Medical Insurance Predictor.ipynb
 ├── screenshots/
-│   ├── ![image](https://github.com/Bidishabiswas1704/insurance_predictor/assets/140384850/c51a52f9-99c8-4dae-aa47-8347dae96f0d)
+│   ├── ![Screenshot 1](https://github.com/Bidishabiswas1704/insurance_predictor/assets/140384850/c51a52f9-99c8-4dae-aa47-8347dae96f0d)
 
-│   └── ![image](https://github.com/Bidishabiswas1704/insurance_predictor/assets/140384850/007542d2-3bc4-46aa-906e-46078d3028cf)
+│   └── ![Screenshot 1]https://github.com/Bidishabiswas1704/insurance_predictor/assets/140384850/007542d2-3bc4-46aa-906e-46078d3028cf)
 
 ├── medical_insurance.py
 ├── insurane_predictor_dtr.pkl
