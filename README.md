@@ -60,7 +60,8 @@ Continuous integration for code quality assurance.
 Clone the Repository:
 
 ```bash
-git clone https://github.com/yourusername/medical-insurance-predictor.git
+git clone https://github.com/Bidishabiswas1704/insurance_predictor/tree/main
+
 ```
 
 Install Dependencies:
@@ -77,9 +78,59 @@ streamlit run medical_insurance_predictor_app.py
 
 Open the web browser and go to http://localhost:8501 to explore the medical insurance predictor application.
 
-## 📊 Example Screenshots
+## 📊 Example Screenshots and User Guidance
 
-[Include screenshots here to showcase the app interface and predictions]
+### Step 1: Opening the Web App
+![Step 1]
+
+![image](https://github.com/Bidishabiswas1704/HR_Insights_Dashboard/assets/140384850/a654b156-5389-48c3-9a8d-757b0d115c50)
+
+- Navigate to the web app by running the provided command in the terminal.
+- The initial screen presents a clean and user-friendly interface.
+
+### Step 2: Adjusting Health Parameters
+![Step 2]
+- Use the sliders to set your age, BMI, and the number of children.
+
+![image](https://github.com/Bidishabiswas1704/insurance_predictor/assets/140384850/b9400833-bc07-4303-992a-c54dd1b38ea5)
+
+- Select 'Yes' or 'No' to indicate whether you are a smoker.
+
+![image](https://github.com/Bidishabiswas1704/insurance_predictor/assets/140384850/efa14cb0-4477-48a9-a13b-a5f20124378e)
+
+- Choose your gender by clicking on 'Male' or 'Female'.
+
+![image](https://github.com/Bidishabiswas1704/insurance_predictor/assets/140384850/18856fd3-f0db-4884-bbf6-3696e4ee1be0)
+
+### Step 3: Predicting Insurance Charges
+![Step 3]
+- After setting your health parameters, click the "Predict Insurance Charges" button.
+
+![image](https://github.com/Bidishabiswas1704/insurance_predictor/assets/140384850/0697af35-6059-4847-931b-bf7bda46865d)
+
+- The app processes your inputs using the advanced Decision Tree Regressor model.
+
+### Step 4: Viewing Predictions
+![Step 4]
+- The predicted insurance charges are displayed on the screen.
+
+![image](https://github.com/Bidishabiswas1704/insurance_predictor/assets/140384850/27c88af7-5de0-4721-9a3d-b7a1c106aad5)
+
+- The result provides transparency into the estimated cost based on your health profile.
+
+### Special Feature: Currency Conversion
+![Step 5]
+- The app goes beyond predictions with a special feature.
+- The predicted values are automatically converted into the top five exchangeable currencies at the current rates.
+
+![image](https://github.com/Bidishabiswas1704/insurance_predictor/assets/140384850/ee4bb597-d75d-4fb4-b8ca-1cb459317bfe)
+
+
+### Recruiters and Users Note:
+- As a recruiter or user, this intuitive interface allows for easy navigation and a seamless experience.
+- Explore the power of predictive analytics and currency conversion all in one place!
+
+
 
 ## 📂 Directory Structure
 
