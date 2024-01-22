@@ -55,18 +55,39 @@ Continuous integration for code quality assurance.
 Certainly! Below is a template inspired by the provided reference, tailored for showcasing the process of the Medical Insurance Predictor project:
 
 ## 📊 Data Exploration and Analysis (Jupyter Notebook)
-- Explore the dataset by opening the Jupyter Notebook (`exploratory_analysis.ipynb`).
+- Explore the dataset by opening the Jupyter Notebook (`Medical Insurance Predictor.ipynb`).
 - Follow the step-by-step instructions to load and analyze the medical insurance dataset.
 - Screenshots:
   - Loading and exploring the medical insurance dataset.
+ 
+  ![image](https://github.com/Bidishabiswas1704/insurance_predictor/assets/140384850/c0396704-c117-4611-b0ec-2d512f133d9a)
+
   - Steps involved in cleaning the data.
-  - Initial visualizations depicting key insights.
+
+  ![image](https://github.com/Bidishabiswas1704/insurance_predictor/assets/140384850/384aa8a7-5b9b-4837-850d-00acbfcef565)
+
+  ![image](https://github.com/Bidishabiswas1704/insurance_predictor/assets/140384850/e2a4046c-b919-4369-bec4-4646b558bc7d)
+
 
 ## ⚙️ Model Training and Prediction
 - The notebook provides a detailed walkthrough of training the Decision Tree Regressor model for predicting insurance charges.
 - Screenshots:
   - Key model parameters influencing predictions.
-  - Model evaluation metrics, including MSE and RMSE.
+
+  ![image](https://github.com/Bidishabiswas1704/insurance_predictor/assets/140384850/400c268d-8eae-411c-8008-1e2de8333f25)
+
+  ![image](https://github.com/Bidishabiswas1704/insurance_predictor/assets/140384850/08dc2b88-078f-4add-b94e-1e5b86c69853)
+
+  ![image](https://github.com/Bidishabiswas1704/insurance_predictor/assets/140384850/9b92a95f-2476-4722-8cde-39f31671284f)
+
+  ![image](https://github.com/Bidishabiswas1704/insurance_predictor/assets/140384850/1717e86e-1051-4fa4-929d-ddf1819bc384)
+
+  ![image](https://github.com/Bidishabiswas1704/insurance_predictor/assets/140384850/1139ea5c-4464-45f5-a5ce-8d24ab16e90b)
+
+
+  - Model evaluation metrics, by finding co-relation between dependent and independent variables using Pearson's co-relation method.
+ 
+    
   - Visualizations capturing crucial aspects during the model training phase.
 
 
