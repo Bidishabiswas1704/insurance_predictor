@@ -31,8 +31,6 @@ Utilizes key metrics such as Mean Absolute Error (MAE) and R-squared for assessi
 ### 🚀 Continuous Integration/Continuous Deployment (CI/CD):
 Ensures code quality and deployment readiness with GitHub Actions for seamless integration.
 
-### 🛑 Handling Outliers:
-Incorporates techniques to identify and handle outliers in the dataset for improved model robustness.
 
 ## 🛠️ Technologies and Techniques Used
 
