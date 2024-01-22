@@ -87,22 +87,57 @@ Certainly! Below is a template inspired by the provided reference, tailored for 
 
   - Model evaluation metrics, by finding co-relation between dependent and independent variables using Pearson's co-relation method.
  
-    
-  - Visualizations capturing crucial aspects during the model training phase.
+  ![image](https://github.com/Bidishabiswas1704/insurance_predictor/assets/140384850/d35d419e-4ba0-4861-bb92-0146fa48e503)
 
+  ![image](https://github.com/Bidishabiswas1704/insurance_predictor/assets/140384850/7f26736d-afcd-47b5-aa78-c5360ab4a597)
+
+  ![image](https://github.com/Bidishabiswas1704/insurance_predictor/assets/140384850/972e9305-0c76-412a-8b49-0f4d44b0ae3b)
+
+  ![image](https://github.com/Bidishabiswas1704/insurance_predictor/assets/140384850/14aaa8c9-63af-4846-a70b-9f08066ca760)
+
+  ![image](https://github.com/Bidishabiswas1704/insurance_predictor/assets/140384850/46d09f43-2112-4232-b6bf-0ea16efbfc63)
+
+ 
+  - Visualizations capturing crucial aspects during the model training phase (finding co-realtion between various variables using Heatmap).
+
+![image](https://github.com/Bidishabiswas1704/insurance_predictor/assets/140384850/25e165f3-2d24-40df-b374-28fe009549a7)
 
 ## 📊 Model Evaluation Metrics
-- Provide an understanding of model evaluation metrics, such as MSE and RMSE, and how to interpret them.
-- Include a screenshot of these metrics in the notebook.
+
+**R-squared (R2):**
+- **Definition:** R2 quantifies the proportion of the variance in the dependent variable that the model explains. It ranges from 0 to 1, with higher values indicating a better fit.
+- **Interpretation:** An R2 score of 1 denotes a perfect fit, while 0 suggests the model does not explain any variability. A higher R2 signifies that the model captures a larger proportion of the target variable's variance.
+
+**Mean Absolute Error (MAE):**
+- **Definition:** MAE calculates the average absolute differences between predicted and actual values, providing a straightforward measure of prediction accuracy.
+- **Interpretation:** Lower MAE values indicate better model performance, as they represent smaller average errors. MAE is less sensitive to outliers compared to MSE, making it particularly useful when extreme values may impact the overall performance assessment.
+
+Both R2 and MAE complement MSE and RMSE in offering comprehensive insights into different aspects of a model's accuracy, providing a more holistic understanding of its predictive capabilities.
+- Included  screenshots of these metrics in the notebook.
+
+![image](https://github.com/Bidishabiswas1704/insurance_predictor/assets/140384850/48613bac-7eeb-48bf-a120-1af052522d32)
+
+![image](https://github.com/Bidishabiswas1704/insurance_predictor/assets/140384850/a71d7a61-b40d-436b-8f17-6a2e4dd2c068)
 
 ## 📊 Visualization and Interpretation
 - Display screenshots of key visualizations aiding in the interpretation of both historical and predicted data.
 
+![image](https://github.com/Bidishabiswas1704/insurance_predictor/assets/140384850/2847eec5-3ffa-45bd-8f7e-767631d9365d)
+
 ## 📈 Automated Prediction and Results
 - Explain how the notebook automates the prediction process, making it accessible for users with varying levels of statistical knowledge.
 - Screenshots:
-  - Forecasted results compared with actual data.
+  - Forecasted results compared with actual data using graphical method.
+
+  ![image](https://github.com/Bidishabiswas1704/insurance_predictor/assets/140384850/62b79a7c-01b7-4268-a707-05232b2ea54d)
+
+  ![image](https://github.com/Bidishabiswas1704/insurance_predictor/assets/140384850/34fb8271-cedc-47ec-8313-2bd712e18884)
+
+
   - Highlighted insights or patterns revealed through the prediction results.
+ 
+  ![image](https://github.com/Bidishabiswas1704/insurance_predictor/assets/140384850/fda977fc-96a9-4dca-a986-406495d75f1e)
+
 
 ## 📄 Usage Instructions
 - Clone the repository:
