@@ -140,7 +140,8 @@ Both R2 and MAE complement MSE and RMSE in offering comprehensive insights into 
 
 
 ## 📄 Usage Instructions
-- Clone the repository:
+**Get Started:**
+1. 📥**Clone the repository:**
   ```bash
   git clone https://github.com/Bidishabiswas1704/insurance_predictor/tree/main 
   ```
@@ -149,14 +150,13 @@ Both R2 and MAE complement MSE and RMSE in offering comprehensive insights into 
 Feel free to customize the sections based on the specifics of your Medical Insurance Predictor project.
 
 
-Install Dependencies:
+2. 🚀**Install dependencies:**
 
 ```bash
 pip install -r requirements.txt
 ```
 
-Run the Streamlit App:
-
+3. 🌐**Deployment:**
 ```bash
 streamlit run medical_insurance.py
 ```
