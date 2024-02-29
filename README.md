@@ -46,9 +46,6 @@ Machine learning library used for implementing the Decision Tree Regressor model
 ### 🌐 Streamlit:
 Web app development with Streamlit for an intuitive user experience.
 
-### 📡 Requests:
-Used for HTTP handling to enhance data retrieval and communication.
-
 ### 📈 GitHub Actions:
 Continuous integration for code quality assurance.
 
